@@ -32,4 +32,4 @@
 
 ---
 
-![kimjaebeom1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjaebeom1&show_icons=true&theme=dark&hide_border=True&icon_color=White)
+![kimjaebeom1's github stats](https://github-readme-stats.vercel.app/api?username=kimjaebeom1&show_icons=true)
